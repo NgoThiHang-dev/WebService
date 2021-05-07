@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Danh sách sinh viên lớp -->
+<ListStudent>
+    <student id="1">
+        <mssv>1710166</mssv>
+        <fullname>Ngô Thị Hằng</fullname>
+        <birthday>01/10/1999</birthday>
+        <hometown>Thanh Hóa</hometown>
+        <department>Công nghệ thông tin</department>
+        <class>CTK41</class>
+    </student>
+    <student id="2">
+        <mssv>1710158</mssv>
+        <fullname>Phan T Q.Duyên</fullname>
+        <birthday>09/01/1999</birthday>
+        <hometown>Bình Phước</hometown>
+        <department>Công nghệ thông tin</department>
+        <class>CTK41</class>
+    </student>
+    <student id="3">   
+        <mssv>1710167</mssv>
+        <fullname>Võ Thị Hằng</fullname>
+        <birthday>01/10/1999</birthday>
+        <hometown>Quảng Trị</hometown>
+        <department>Công nghệ thông tin</department>
+        <class>CTK41</class>
+    </student>
+    <student id="4">  
+        <mssv>1710126</mssv>
+        <fullname>Nông Phan An</fullname>
+        <birthday>01/10/1999</birthday>
+        <hometown>Bình Phước</hometown>
+        <department>Công nghệ thông tin</department>
+        <class>CTK41</class>
+    </student>
+    <student id="5">
+        <mssv>1710126</mssv>
+        <fullname>Nguyễn Thị H</fullname>
+        <birthday>01/10/1999</birthday>
+        <hometown>Thanh Hóa</hometown>
+        <department>Công nghệ thông tin</department>
+        <class>CTK41</class>
+    </student>
+    <student id="6">
+        <mssv>1710126</mssv>
+        <fullname>Nguyễn Thị H</fullname>
+        <birthday>01/10/1999</birthday>
+        <hometown>Thanh Hóa</hometown>
+        <department>Công nghệ thông tin</department>
+        <class>CTK41</class>
+    </student>
+    <student id="7">
+        <mssv>1710126</mssv>
+        <fullname>Nguyễn Thị H</fullname>
+        <birthday>01/10/1999</birthday>
+        <hometown>Thanh Hóa</hometown>
+        <department>Công nghệ thông tin</department>
+        <class>CTK41</class>
+    </student>
+</ListStudent>

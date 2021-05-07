@@ -1,0 +1,121 @@
+body{
+    font-family: helvetica, arial,courier;
+    background-image: linear-gradient(#FFEBCD, #FFF8DC);
+}
+
+#wp-content
+{
+    width: 60%;
+    margin: 0 auto;
+    background-color: #FFF;
+    padding: 2px;
+    min-height: 50px;
+}
+/*header*/
+#header
+{
+    height: 280px;
+}
+.menu img
+{
+    width: 100%;
+}
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+.menu li {
+    float: left;
+  }
+  
+.menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+.menu li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+.active {
+    background-color: #4CAF50;
+  }
+
+/*content*/
+#content{
+    margin-top: 35px;
+    height: 400px;
+    min-height: 150px;
+}
+
+input{
+    margin: 20 auto;
+    padding: 0 auto;
+}
+
+input[type=text]{ 
+    /* background-image: url('search_icon.png');
+    background-repeat: no-repeat;
+    background-position: 5px 10px; */
+    padding:12px 15px 15px 12px;
+    margin: 8px 20px;
+    width: 60%;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit]{
+    width: 20%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    font-size: 16px;
+    padding-left: 20px;
+    color: black;
+}
+
+h2 a{
+    color: black;
+    text-decoration: none;
+}
+
+h2 a:hover{
+    color: #A0522D;
+}
+
+
+.post-head title{
+    text-align: center;
+}
+
+
+.post-content{
+    font-size: 18px;
+    color: black;
+    margin-left: 20px;
+}
+
+

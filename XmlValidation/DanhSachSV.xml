@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Thông tin sinh viên -->
+<DanhSachSV>
+    <SinhVien>
+        <Ten>Ngô Thị Hằng</Ten>
+        <Lop>CTK41</Lop>
+        <Diem>
+            <TiengAnh heso="1">8</TiengAnh>
+            <LapTrinh heso="2">9</LapTrinh>
+        </Diem>
+    </SinhVien>
+    <SinhVien>
+        <Ten>Le Thi L</Ten>
+        <Lop>CTK30</Lop>
+        <Diem>
+            <TiengAnh heso="1">9</TiengAnh>
+            <LapTrinh heso="2">9.5</LapTrinh>
+        </Diem>
+    </SinhVien>
+</DanhSachSV>

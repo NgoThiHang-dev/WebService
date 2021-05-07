@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<courses>
+  <course/>
+  <name>Học HTML, CSS cơ bản</name>
+  <price>499000</price>
+  <course/>
+  <name>Lập trình PHP </name>
+  <price>1489000</price>
+</courses>
